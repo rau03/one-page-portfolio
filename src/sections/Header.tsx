@@ -50,6 +50,7 @@ const Header: FC = () => {
                 <rect x="3" y="7" width="18" height="2" fill="currentColor" />
               </svg>
             </div>
+            <button className="bg-red-orange-500">Contact Me</button>
           </div>
         </div>
       </div>
